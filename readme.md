@@ -6,7 +6,8 @@
 2. Indexierung und Slicing von Arrays  
 3. Berechnungen und statistische Analysen  
 4. Filtern und Bedingte Auswahl  
-5. Speichern von berechneten Ergebnissen  
+5. Vektorisierung und Effizienz
+6. Speichern von berechneten Ergebnissen  
 
 ---
 
