@@ -60,7 +60,7 @@ print(array)
 
 **Aufgaben:**  
 1. Extrahiere die Spalte **`Trip_distance`**.  
-2. Wähle gezielt einen Bereich aus: **Zeilen 10 bis 20** und **Spalten 2 bis 4**.  
+2. Wähle gezielt einen Bereich aus: **Zeilen 10 bis 20** und **Spalten 5 bis 6 **.  
 3. Extrahiere **jede zweite Zeile** der Daten.  
 4. Extrahiere die **letzte Spalte** des Arrays.  
 
