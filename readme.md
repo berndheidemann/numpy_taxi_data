@@ -60,10 +60,9 @@ print(array)
 
 **Aufgaben:**  
 1. Extrahiere die Spalte **`Trip_distance`**.  
-2. Wähle alle Zeilen aus, bei denen `Passenger_count` genau **1** ist.  
-3. Wähle gezielt einen Bereich aus: **Zeilen 10 bis 20** und **Spalten 2 bis 4**.  
-4. Extrahiere **jede zweite Zeile** der Daten.  
-5. Extrahiere die **letzte Spalte** des Arrays.  
+2. Wähle gezielt einen Bereich aus: **Zeilen 10 bis 20** und **Spalten 2 bis 4**.  
+3. Extrahiere **jede zweite Zeile** der Daten.  
+4. Extrahiere die **letzte Spalte** des Arrays.  
 
 **Beispielcode:**  
 ```python
@@ -121,6 +120,7 @@ print("Summe:", np.sum(array))
 2. Ermittle Fahrten, bei denen `Fare_amount` zwischen **10 und 20 Dollar** liegt.  
 3. Kombiniere Bedingungen: Fahrten mit mehr als **2 Passagieren** und einer Strecke unter **2 Meilen**. 
 4. Gibt es Fahrten, die **keine Passagiere** hatten?
+5. Wähle alle Zeilen aus, bei denen `Passenger_count` genau **1** ist.  
 
 **Beispielcode:**  
 ```python
